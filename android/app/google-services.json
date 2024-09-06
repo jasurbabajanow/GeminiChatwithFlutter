@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393526051407",
+    "project_id": "geminichat-4669d",
+    "storage_bucket": "geminichat-4669d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393526051407:android:d899e3767b3b860e82203a",
+        "android_client_info": {
+          "package_name": "com.example.gemini_ai_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQMpzrQb0BikrsVmFeeogMEaDcVBO7ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
